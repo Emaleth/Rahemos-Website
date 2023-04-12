@@ -8,7 +8,7 @@ pluralizelisttitles = 'false'
 paginate  = 15
 enableEmoji = true
 enableGitInfo = true
-
+publishDir = 'docs'
 copyright = 'copyright test'
 
 [params]
