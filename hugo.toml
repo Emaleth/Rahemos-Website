@@ -13,10 +13,10 @@ copyright = 'copyright test'
 
 [params]
 ava = "/img/cat.png"
-owner ="Red Kitty"
-talk = "Hello guys &#128075; im cool kitty..."
+owner ='Rahemos'
+talk = "Cooking..."
 blogSection = ["blog"]
-description = "Cat"
+description = "Rahemos Development Website"
 favicon = "/img/logo.svg"
 
 [menu]
